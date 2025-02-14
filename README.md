@@ -13,7 +13,7 @@ I am always open to networking opportunities and discussions about the latest in
 
 
 <br>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" image="fit"/>
 &nbsp;
 <br />
 
