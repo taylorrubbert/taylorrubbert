@@ -1,4 +1,4 @@
-## Hi, I'm Taylor Rubbert
+## Hi, I'm Taylor Rubbert <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" height="50" />
 
 As an enthusiastic gamer with a passion for technology, I am currently pursuing a career in software development after transitioning from the dental field. Balancing the rewarding role of being a parent to two wonderful children while living in a rural area has equipped me with a strong sense of adaptability and resourcefulness.
 
@@ -10,10 +10,12 @@ I am always open to networking opportunities and discussions about the latest in
 
  <a href="https://linkedin.com/in/taylorrubbert"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br />
+
+
 <br>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" height="200"/>
+&nbsp;
 <br />
----
 
 ## 🛠  Technologies and tools
 
