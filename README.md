@@ -10,9 +10,9 @@ I am always open to networking opportunities and discussions about the latest in
 
  <a href="https://linkedin.com/in/taylorrubbert"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br />
-
+<br>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+<br />
 ---
 
 ## 🛠  Technologies and tools
